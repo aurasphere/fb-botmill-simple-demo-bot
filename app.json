@@ -1,0 +1,7 @@
+{
+  "name": "FB-BotMill demo",
+  "description": "A simple Facebook Messenger Platform bot demo built using the BotMill framework.",
+  "repository": "https://github.com/aurasphere/fb-botmill-simple-demo-bot",
+  "logo": "https://i1.wp.com/www.botmill.io/wp-content/uploads/2017/01/cropped-FA-BOTMILL-01-1.png?fit=193%2C182",
+  "keywords": ["fb-botmill", "botmill", "facebook-messenger-platform"]
+}
