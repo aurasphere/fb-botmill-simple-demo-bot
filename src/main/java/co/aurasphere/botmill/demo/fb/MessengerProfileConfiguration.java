@@ -25,7 +25,7 @@ package co.aurasphere.botmill.demo.fb;
 
 import co.aurasphere.botmill.core.internal.util.ConfigurationUtils;
 import co.aurasphere.botmill.fb.FbBotMillContext;
-import co.aurasphere.botmill.fb.messengerprofile.FbBotMillMessengerProfileConfiguration;
+import co.aurasphere.botmill.fb.threadsettings.FbBotMillThreadSettingsConfiguration;
 
 /**
  * Class which handles the bot Messenger Profile Configuration. This class has a
@@ -55,9 +55,9 @@ public class MessengerProfileConfiguration {
 				ConfigurationUtils.getConfiguration().getProperty(
 						FB_BOTMILL_VALIDATION_TOKEN));
 
-		FbBotMillMessengerProfileConfiguration
+		FbBotMillThreadSettingsConfiguration
 				.setGetStartedButton("get_started");
-		FbBotMillMessengerProfileConfiguration
+		FbBotMillThreadSettingsConfiguration
 				.setGreetingMessage("Hello, I'm a simple BotMill-based bot!");
 	}
 
