@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
+
 # fb-botmill-simple-demo-bot
 A simple Facebook Messenger Platform bot demo built using the BotMill framework.
 
